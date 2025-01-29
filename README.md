@@ -33,11 +33,11 @@ Now, navigate to `http://localhost:8000/` to have a look at the demo page and `h
 documentations. The app behaviors should be like the following:
 <figcaption align="center">Figure 1: Mine a block</figcaption>
 
-![Mine a block](assets/mine.png)
+![Mine a block](assets/MIne.png)
 
 <figcaption align="center">Figure 2: Get the blockchain</figcaption>
 
-![Get the blockchain](assets/get-chain.png)
+![Get the blockchain](assets/Get-Chain.png)
 
 <figcaption align="center">Figure 3: Check if the blockchain is valid</figcaption>
 
