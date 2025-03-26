@@ -42,5 +42,3 @@ documentations. The app behaviors should be like the following:
 <figcaption align="center">Figure 3: Check if the blockchain is valid</figcaption>
 
 ![Check if the blockchain is valid](assets/check-valid.png)
-
-Developed by [Duy Huynh](https://duy-huynh.com/), 2023.
